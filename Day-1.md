@@ -42,7 +42,7 @@ The authors ran over 4,000 scaling experiments on up to 512 GPUs and measured th
 
 ### Cheatsheet
 
-![ultra-cheatsheet.svg](./Day1!%20The%20Ultra-Scale%20Playbook!%20Training%20LLMs%20on%20GPU%20Clusters%20-%20Introduction-assets/ultra-cheatsheet.svg)
+![ultra-cheatsheet.svg](images/ultra-cheatsheet.svg)
 
 ## Code Snippet
 
